@@ -5,7 +5,7 @@
 ### Project Demo Link : https://youtu.be/6k4CXEHufHA
 
 DASHBOARD : 
-![alt text](https://drive.google.com/file/d/1EZ917Gzgra0YcEGf7E-K24FNbkrqUTKK/view?usp=sharing/view)
+![image](https://drive.google.com/uc?export=view&id=1EZ917Gzgra0YcEGf7E-K24FNbkrqUTKK)
 REPORT : 
 
 STORY : 
