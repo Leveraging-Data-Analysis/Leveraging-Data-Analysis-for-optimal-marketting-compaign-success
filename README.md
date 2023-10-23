@@ -7,7 +7,8 @@
 
 # DASHBOARD : 
 ![image](https://drive.google.com/uc?export=view&id=1EZ917Gzgra0YcEGf7E-K24FNbkrqUTKK)
-![image](https://drive.google.com/uc?export=view&id=12JkskNW5zTMdaxfxxYJ5oYdCsyov0CbN)
+![image](https://drive.google.com/uc?export=view&id=1Q3CpeJiaFXpEtRAegCsvmLiVgiv-vrBT)
+![image](https://drive.google.com/uc?export=view&id=18dPt2wYloygp1YlTOT2XrDPinMoiI_22)
 
 # REPORT : 
 ![image](https://drive.google.com/uc?export=view&id=1DZSxGMmVaPLP_gZFc93YK_0RlEtyFK9i)
