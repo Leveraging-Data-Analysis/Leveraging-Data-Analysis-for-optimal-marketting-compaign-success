@@ -8,12 +8,8 @@
 # DASHBOARD : 
 ![image](https://drive.google.com/uc?export=view&id=1EZ917Gzgra0YcEGf7E-K24FNbkrqUTKK)
 
-# REPORT 1: 
+# REPORT : 
 ![image](https://drive.google.com/uc?export=view&id=1DZSxGMmVaPLP_gZFc93YK_0RlEtyFK9i)
-# REPORT :
-![image](https://drive.google.com/uc?export=view&id=1xgRfC91tt_j2H2-1rvEArWgJOgoGHN2S)
-# REPORT 3:
-![image](https://drive.google.com/uc?export=view&id=1ibJd4k1biTFUJyXptSyoo-93I47TtY12)
 
 # STORY SAMPLE SLIDE 1:
 
